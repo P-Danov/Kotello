@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Kotello/static/css/main.37a4b8b0.css",
+    "main.js": "/Kotello/static/js/main.e877b58e.js",
+    "static/media/mountainBackground.jpg": "/Kotello/static/media/mountainBackground.38f4c78d9925790b43bb.jpg",
+    "index.html": "/Kotello/index.html",
+    "main.37a4b8b0.css.map": "/Kotello/static/css/main.37a4b8b0.css.map",
+    "main.e877b58e.js.map": "/Kotello/static/js/main.e877b58e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37a4b8b0.css",
+    "static/js/main.e877b58e.js"
+  ]
+}
