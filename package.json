@@ -1,7 +1,7 @@
 {
   "name": "react-t",
   "version": "0.1.0",
-  "homepage": "https://p-danov.github.io/Kotello",
+  "homepage": "https://p-danov.github.io/Kotello/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
